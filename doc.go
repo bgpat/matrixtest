@@ -25,7 +25,6 @@ Usage:
 				t.Log(testcase)
 			}
 		})
-	})
 	}
 */
 package matrixtest
